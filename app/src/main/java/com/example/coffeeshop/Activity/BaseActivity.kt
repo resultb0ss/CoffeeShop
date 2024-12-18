@@ -1,4 +1,4 @@
-package com.example.coffeeshop
+package com.example.coffeeshop.Activity
 
 import android.graphics.Color
 import android.os.Bundle
